@@ -5,5 +5,5 @@
 💗I enjoy webdevelopment using html code
 💗I am most efficent using c++, html, python and java
 
-any questions about me or my work please email me using ==jaynehaalstra@gmail.com!==
+any questions about me or my work please email me using == jaynehaalstra@gmail.com! ==
 
