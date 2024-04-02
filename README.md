@@ -1,4 +1,4 @@
-# ***✨Hello I'm Jayne!✨***
+# ***✨Hello I'm ==Jayne==!✨***
 ### Pronouns : she/her
 💗I am a high school student hoping to pursue a career in computer science
 💗I am planning to study computer science post secondary
